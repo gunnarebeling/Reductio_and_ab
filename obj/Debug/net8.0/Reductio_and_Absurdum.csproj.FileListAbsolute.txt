@@ -1,0 +1,14 @@
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/bin/Debug/net8.0/Reductio_and_Absurdum
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/bin/Debug/net8.0/Reductio_and_Absurdum.deps.json
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/bin/Debug/net8.0/Reductio_and_Absurdum.runtimeconfig.json
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/bin/Debug/net8.0/Reductio_and_Absurdum.dll
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/bin/Debug/net8.0/Reductio_and_Absurdum.pdb
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/Reductio_and_Absurdum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/Reductio_and_Absurdum.AssemblyInfoInputs.cache
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/Reductio_and_Absurdum.AssemblyInfo.cs
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/Reductio_and_Absurdum.csproj.CoreCompileInputs.cache
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/Reductio_and_Absurdum.dll
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/refint/Reductio_and_Absurdum.dll
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/Reductio_and_Absurdum.pdb
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/Reductio_and_Absurdum.genruntimeconfig.cache
+/Users/gunnarebeling/workspace/csharp/Reductio_and_Absurdum/obj/Debug/net8.0/ref/Reductio_and_Absurdum.dll

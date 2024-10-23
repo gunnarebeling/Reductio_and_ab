@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Reductio_and_Absurdum/1.0.0": {
+        "runtime": {
+          "Reductio_and_Absurdum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reductio_and_Absurdum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
